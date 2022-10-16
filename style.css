@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    background-color: black;
+    /* BEGIN (write your solution here) */
+    font-size: 18px;
+    font-weight: 600;
+    color: greenyellow;
+    /* END */
+    font-family: monospace;
+    line-height: 1.5;
+    /*border: 8px inset #61B162;*/
+}
+canvas {
+    display:block;
+    position: absolute;
+    z-index: -1;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+a{
+    color: aqua;
+}
+/* BEGIN (write your solution here) */
+h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+
+/* END */
+
+h2 {
+    /* BEGIN (write your solution here) */
+    margin-top: 0px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+
+    /* END */
+
+    border-bottom: 2px solid #e3e3e3;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+}
+
+
+/* BEGIN (write your solution here) */
+section{
+    margin: 0;
+    padding: 0;
+}
+section h2{
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    border: none;
+}
+li{
+    margin-bottom: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+/* END */
